@@ -11,4 +11,4 @@ TPV (1) or From distance (2): 2
 Save animation? (1= YES): 
 
 If one would like to change which state is used in the control law go into the Simulink model found in the Simulink folder.
-Look for a manual switch under the EKF block and switch. (Up - Use EKF estimate, Down - Use ground truth)
+Look for a man
