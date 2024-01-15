@@ -14,6 +14,8 @@ System Parameters - Q and R for both LQR, Q_noise and R_noise for EKF
 
 main - This is the file where everyting is run from. Run it -> Choose trajectory to follow and how long it should take -> view results in animation and evaluate them using evaluate_results. The results can thereafter be saved in Result folder.
 
+init_drone - Ability to change the sensors' frequency and variance
+
 # Example run
 (With the parameters from this reposity)
 
