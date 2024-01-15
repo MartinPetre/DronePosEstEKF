@@ -1,5 +1,5 @@
 # Instructions
-Ex)
+Ex) \\
 Run main:
 Choose course: Hover - (1), Straight - (2), Box - (3), Ellipse - (4) 
 3
