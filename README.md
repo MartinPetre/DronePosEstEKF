@@ -1,5 +1,5 @@
 # About
-Simulation of a quadcopter, pose is esimated using the Extended Kalman Filter.
+Simulation of a quadcopter controlled using LQR based on position error, pose is esimated using the Extended Kalman Filter.
 
 # File Structure
 Classes - Defining necessary classes such as Drone, Filter, GPS, IMU, ...
